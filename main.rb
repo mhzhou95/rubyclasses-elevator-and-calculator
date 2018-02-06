@@ -1,4 +1,4 @@
-# PART 1 Calculator start function startCalculator to go!
+# PART 1 Calculator start method startCalculator to go!
 
 class Calculator
 	def initialize(num1, num2)
@@ -50,7 +50,7 @@ def startCalculator
 end
 
 
-# PART 2 ELEVATOR start func runElevator to go!
+# PART 2 ELEVATOR start method runElevator to go!
 
 
 
