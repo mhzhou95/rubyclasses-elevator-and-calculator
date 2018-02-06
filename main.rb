@@ -52,8 +52,6 @@ end
 
 # PART 2 ELEVATOR start method runElevator to go!
 
-
-
 class Elevator
 	attr_reader :floor
 	def initialize(floor)
@@ -77,7 +75,7 @@ class Elevator
 	end
 
 	def cheery_greeting
-		p "You are currently on the floor #{floor}"
+		 "You are currently on the floor #{floor}"
 	end
 end
 
